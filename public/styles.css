@@ -42,6 +42,10 @@ body {
     color: #a5a5b1
 }
 
+.w_btn {
+  margin-top: 10px;
+}
+
 *:focus {
     outline: none
 }
